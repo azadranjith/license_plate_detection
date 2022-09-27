@@ -10,24 +10,24 @@ A computer vision program to detect the number plate of the vehicles and extract
 <h3> Private Vehicle </h3>
 
 <p> The black letters in white background come under the private type. </p>
-<img src="private.png" alt="private vehicle" style="width:300px">
+<img src="images/private.png" alt="private vehicle" style="width:300px">
 
 
 <h3>Transport Vehicle</h3>
 
 <p> The black letters in the yellow background fall under taxi type </p>
 
-<img src="taxi.png" alt="taxi" style="width:300px">
+<img src="images/taxi.png" alt="taxi" style="width:300px">
 
 <h3>Rented Vehicle </h3>
 <p> The yellow letters in th black background fall under rented vehicle type.</p>
 
-<img src="rented.png" style="width:300px">
+<img src="images/rented.png" style="width:300px">
 
 <h3> Electric </h3>
 
 <p>The white letters in the green background fall under the electric vehicle </p>
 
-<img src="electric.png" style="width:300px">
+<img src="images/electric.png" style="width:300px">
 
 
